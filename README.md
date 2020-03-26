@@ -6,3 +6,6 @@ Current Additions:
   - Endless quiver for Holy Arrows, same crafting method as bullet pouches.
   - Endless wormhole potions (Wormhole Mirror)
   - Item combinations for various items including Bundle of balloons, Ninja gear, Celestial Cuffs and Mana Flower.
+
+WIP:
+  - lumberer NPC. Sells various woods at differing points through the game.
