@@ -9,3 +9,5 @@ Current Additions:
 
 WIP:
   - lumberer NPC. Sells various woods at differing points through the game.
+
+See release for source code.
